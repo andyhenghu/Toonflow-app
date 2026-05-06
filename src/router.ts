@@ -1,4 +1,4 @@
-// @routes-hash d3a4d7955a8f63d5cc1c769612bd48c2
+// @routes-hash 844b2f0fb4d8b74f197bab29e2b05490
 import { Express } from "express";
 
 import route1 from "./routes/agents/clearMemory";
