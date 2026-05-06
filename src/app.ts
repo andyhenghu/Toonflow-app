@@ -12,7 +12,7 @@ import path from "path";
 import fs from "fs";
 import u from "@/utils";
 import jwt from "jsonwebtoken";
-import socketInit from "@/socket/index";
+import socketInit from "@/socket/index";  
 import { isEletron } from "@/utils/getPath";
 
 const app = express();
